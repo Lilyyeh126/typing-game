@@ -14,4 +14,7 @@
 
 ## 執行方式
 ```bash
-python main.py
+git clone https://github.com/Lilyyeh126/typing-game.git
+cd typing-game
+uv sync
+uv run main.py
